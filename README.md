@@ -9,5 +9,5 @@
   : رزومه
 - [SOP](https://mortezaghorbani68.github.io/SOP/)
   :انگیزنه نامه 
-- [java script](js.pdf)
+- [java script](java.pdf)
   : مدرک جاوا اسکریپت
