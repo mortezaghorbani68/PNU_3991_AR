@@ -7,7 +7,7 @@
 - [PNU_3991_AR](https://github.com/mortezaghorbani68/PNU_3991_AR/)
 - [resume](https://mortezaghorbani68.github.io/morteza-gh.github.io/)
 - [SOP](https://mortezaghorbani68.github.io/SOP/)
-- [latex_spm]
+- [latex_spm](https://github.com/mortezaghorbani68/PNU_3991_AR/tree/main/latex_spm-88-92)
 - [javascript certificate](java.pdf)
 - [ ارزیابی عمومی](https://github.com/mortezaghorbani68/PNU_3991_AR/tree/main/_General)
 - [ ارزیابی تخصصی](https://github.com/mortezaghorbani68/PNU_3991_AR/tree/main/Specialty_spm)
