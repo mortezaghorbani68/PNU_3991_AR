@@ -8,7 +8,7 @@
 - [resume](https://mortezaghorbani68.github.io/morteza-gh.github.io/)
 - [SOP](https://mortezaghorbani68.github.io/SOP/)
 - [javascript certificate](java.pdf)
-- [ ارزیابی عمومی]
+- [ ارزیابی عمومی](https://github.com/mortezaghorbani68/PNU_3991_AR/tree/main/_General)
 ------------------
 ## Winter Semester Courses 1399/2020
 
