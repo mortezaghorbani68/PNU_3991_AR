@@ -9,17 +9,17 @@
 - [SOP](https://mortezaghorbani68.github.io/SOP/)
 - [javascript certificate](java.pdf)
 - [ ارزیابی عمومی](https://github.com/mortezaghorbani68/PNU_3991_AR/tree/main/_General)
-- [ ارزیابی تخصصی]
+- [ ارزیابی تخصصی](https://github.com/mortezaghorbani68/PNU_3991_AR/tree/main/Specialty_spm)
 ------------------
 ## Winter Semester Courses 1399/2020
 
-## دروس کارشناسی
+## دروس کارشناسی ارشد
 
-<br>
-<br>
-<br>
-<br>
-<br>
+<br>مدیریت پروژه های نرم افزاری
+<br>بازیابی پیشرفته اطلاعات
+<br>معماری کامپیوتر پیشرفته
+<br>سمینار تحقیق و تتبع
+<br>سمینار
 
 --------------
 
