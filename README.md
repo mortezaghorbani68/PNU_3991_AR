@@ -9,7 +9,7 @@
 - [SOP](https://mortezaghorbani68.github.io/SOP/)
 - [latex_spm](https://github.com/mortezaghorbani68/PNU_3991_AR/tree/main/latex_spm-88-92)
 - [javascript certificate](java.pdf)
-- [ ارزیابی عمومی](https://github.com/mortezaghorbani68/PNU_3991_AR/tree/main/_General)
+- [ ارزیابی عمومی](https://github.com/mortezaghorbani68/PNU_3991_AR/tree/main/Generall)
 - [ ارزیابی تخصصی](https://github.com/mortezaghorbani68/PNU_3991_AR/tree/main/Specialty_spm)
 ------------------
 ## Winter Semester Courses 1399/2020
