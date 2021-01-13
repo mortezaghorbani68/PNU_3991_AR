@@ -9,6 +9,7 @@
 - [SOP](https://mortezaghorbani68.github.io/SOP/)
 - [javascript certificate](java.pdf)
 - [ ارزیابی عمومی](https://github.com/mortezaghorbani68/PNU_3991_AR/tree/main/_General)
+- [ ارزیابی تخصصی]
 ------------------
 ## Winter Semester Courses 1399/2020
 
