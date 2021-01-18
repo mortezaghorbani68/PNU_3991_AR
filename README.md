@@ -4,7 +4,7 @@
  
 ---
 - [github](https://github.com/mortezaghorbani68)
-- [PNU_3991_AR](https://github.com/mortezaghorbani68/PNU_3991_AR/)
+- [PNU_3991_AR](https://github.com/mortezaghorbani68/PNU_3991_AR/tree/main/PNU_3991_AR)
 - [resume](https://mortezaghorbani68.github.io/morteza-gh.github.io/)
 - [SOP](https://mortezaghorbani68.github.io/SOP/)
 - [مدیریت پروژه های نرم افزاری](https://github.com/mortezaghorbani68/PNU_3991_AR/tree/main/SoftwareProjectManagement)
