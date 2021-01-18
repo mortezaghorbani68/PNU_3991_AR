@@ -7,10 +7,7 @@
 - [PNU_3991_AR](https://github.com/mortezaghorbani68/PNU_3991_AR/tree/main/PNU_3991_AR)
 - [resume](https://mortezaghorbani68.github.io/morteza-gh.github.io/)
 - [SOP](https://mortezaghorbani68.github.io/SOP/)
-- [مدیریت پروژه های نرم افزاری](https://github.com/mortezaghorbani68/PNU_3991_AR/tree/main/SoftwareProjectManagement)
 - [javascript certificate](java.pdf)
-- [سمینار تحقیق و تتبع]
-- [ ارزیابی عمومی](https://github.com/mortezaghorbani68/PNU_3991_AR/tree/main/Generall)
 ------------------
 ## Winter Semester Courses 1399/2020
 
